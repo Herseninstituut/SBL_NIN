@@ -1,9 +1,10 @@
 # Social Brain Lab
 
 | ![Valeria Gazzola](img/valeria.jpg) | ![Christian Keysers](img/christian.jpg) |
-|:-----------------------------------:|:---------------------------------------:|
-| **Valeria Gazzola**                 | **Christian Keysers**                   |
+|:-------------------:|:---------------------:|
+| **Valeria Gazzola** | **Christian Keysers** |
 
+**This page provides links to all the open source repositories from the members of [Social Brain Lab](https://nin.nl/research-groups/keysers/social-brain-lab/) at the [Herseninstituut](https://nin.nl/).**
 
 ## Focused ultrasound imaging
 - [Processing of functional and anatomical ultra sound imaging data](https://github.com/Herseninstituut/fUSI-Analysis)
