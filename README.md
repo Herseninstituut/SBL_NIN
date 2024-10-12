@@ -1,21 +1,9 @@
 # Social Brain Lab
 
-<div style="display: flex; justify-content: space-between;">
+| ![Valeria Gazzola](img/valeria.jpg) | ![Christian Keysers](img/christian.jpg) |
+|:-----------------------------------:|:---------------------------------------:|
+| **Valeria Gazzola**                 | **Christian Keysers**                   |
 
-<div style="width: 48%;">
-
-![img](img/valeria.jpg)
-<p align="center">Valeria Gazzola</p>
-
-</div>
-
-<div style="width: 48%;">
-
-![](img/christian.jpg)
-<p align="center">Christian Keysers</p>
-</div>
-
-</div>
 
 ## Focused ultrasound imaging
 - [Processing of functional and anatomical ultra sound imaging data](https://github.com/Herseninstituut/fUSI-Analysis)
