@@ -29,4 +29,6 @@
 - [Resting-state functional connectivity analyses on the ABIDE dataset](https://github.com/Herseninstituut/rsfnc)
 
 ## EcOG
-- [Action Prediction EcOG scripts](https://github.com/Csaramon/ActionPredictionECoG)# SBL_NIN
+- [Action Prediction EcOG scripts](https://github.com/Csaramon/ActionPredictionECoG)
+
+
